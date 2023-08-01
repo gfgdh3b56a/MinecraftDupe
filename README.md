@@ -1,5 +1,5 @@
 # MinecraftDupe
-Minecraft 1.19 Duplication Mod.
+Minecraft 1.19 Dupe Mod.
 This mod contains multiple duplication methods that can by used to destroy servers.
 
 How to Dupe
